@@ -1,5 +1,7 @@
 import xml.etree.ElementTree as ET
 import os
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
 
 diretorio_atual = os.path.dirname(os.path.abspath(__file__))
 caminho_arquivo = os.path.join(diretorio_atual, '../data/cf74.xml')
