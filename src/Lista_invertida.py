@@ -83,4 +83,5 @@ with open(caminho_output, 'w', newline='') as output_csv:
     escritor_csv = csv.writer(output_csv, delimiter=';')
     for palavra, lista in dict.items():
         escritor_csv.writerow([palavra] + [lista])
+output_csv.close()
 logging.info('CSV concluído')
