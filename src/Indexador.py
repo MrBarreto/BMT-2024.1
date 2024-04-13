@@ -8,7 +8,6 @@ import logging
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 
-
 diretorio_atual = os.path.dirname(os.path.abspath(__file__))
 caminho_config = os.path.join(diretorio_atual, '../cfg/INDEX.CFG')
 caminho_log = os.path.join(diretorio_atual, '../logs/indexador.log')
@@ -34,4 +33,4 @@ with open(caminho_lista, ) as input_csv:
                 id_artigos.append(id)
 input_csv.close()
 
-print(sorted(set(id_artigos)))
+id_artigos = sorted(set(id_artigos))
