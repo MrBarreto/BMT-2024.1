@@ -34,4 +34,4 @@ with open(caminho_lista, ) as input_csv:
                 id_artigos.append(id)
 input_csv.close()
 
-print(list(set(id_artigos)))
+print(sorted(set(id_artigos)))
