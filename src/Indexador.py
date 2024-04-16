@@ -7,6 +7,7 @@ import csv
 import logging
 import numpy as np
 import math
+import json
 
 diretorio_atual = os.path.dirname(os.path.abspath(__file__))
 caminho_config = os.path.join(diretorio_atual, '../cfg/INDEX.CFG')
@@ -18,6 +19,7 @@ logging.info('Lendo arquivo .CFG')
 configs = configparser.RawConfigParser()
 configs.read(caminho_config)
 fonte_lista = configs.get('INDEX.CFG', 'LEIA')
+output_vetor = configs.get('INDEX.CFG', 'ESCREVA')
 
 caminho_lista = os.path.join(diretorio_atual, '../outputs/' + fonte_lista)
 
@@ -76,4 +78,16 @@ for linha in range(len(vetorial)):
     idf = math.log10(len(vetorial[0])/idf)
     for coluna in range(len(vetorial[0])):
         vetorial[linha][coluna] = vetorial[linha][coluna]*idf
-print(vetorial)
+
+compact_dic ={"palavras": dic_palavras, "artigos":dic_artigos}
+
+caminho_vetor = os.path.join(diretorio_atual, '../outputs/' + output_vetor)
+
+caminho_metadados = os.path.join(diretorio_atual, '../outputs/metadados_indexador.txt')
+
+compact_json = json.dumps(compact_dic)
+
+with open(caminho_metadados, 'w') as file:
+    file.write(compact_json)
+
+np.savetxt(caminho_vetor, vetorial)
