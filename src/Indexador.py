@@ -79,6 +79,7 @@ for linha in range(len(vetorial)):
     idf = math.log10(len(vetorial[0])/idf)
     for coluna in range(len(vetorial[0])):
         vetorial[linha][coluna] = vetorial[linha][coluna]*idf
+logging.info('Pesos calculados')
 
 compact_dic ={"palavras": dic_palavras, "artigos":dic_artigos}
 

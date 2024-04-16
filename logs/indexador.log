@@ -1,1 +1,10 @@
-2024-04-16 19:09:04,927 - INFO - Lendo arquivo .CFG
+2024-04-16 19:36:56,124 - INFO - Lendo arquivo .CFG
+2024-04-16 19:36:56,124 - INFO - Lendo arquivo com a lista invertida
+2024-04-16 19:36:56,325 - INFO - Leitura da lista invertida terminada
+2024-04-16 19:36:56,326 - INFO - Criando mapeamentos entre Palavras/Artigos e índices
+2024-04-16 19:36:56,356 - INFO - Iniciando o processo de cálculo de peso das palavras nos artigos
+2024-04-16 19:37:01,816 - INFO - Pesos calculados
+2024-04-16 19:37:01,818 - INFO - Salvando metadados no txt
+2024-04-16 19:37:01,819 - INFO - Metadados salvos no txt
+2024-04-16 19:37:01,819 - INFO - Savando a matriz
+2024-04-16 19:37:04,866 - INFO - Matriz Salva
