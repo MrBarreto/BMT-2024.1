@@ -26,6 +26,7 @@ caminho_lista = os.path.join(diretorio_atual, '../outputs/' + fonte_lista)
 dict = {}
 id_artigos = []
 
+logging.info('Lendo arquivo com a lista invertida')
 with open(caminho_lista, ) as input_csv:
     leitor_csv = csv.reader(input_csv, delimiter= ';')
     for row in leitor_csv:
@@ -35,24 +36,23 @@ with open(caminho_lista, ) as input_csv:
                 id_artigos.append(id)
 input_csv.close()
 
+logging.info('Leitura da lista invertida terminada')
+
 id_artigos = sorted(set(id_artigos))
 
 dic_palavras = {}
 dic_artigos ={}
-dic_palavras_inv = {}
-dic_artigos_inv ={}
 
 col =  len(id_artigos)
 lin = len(dict.keys())
 palavras = list(dict.keys())
 
+logging.info('Criando mapeamentos entre Palavras/Artigos e índices')
 for i in range(col):
     dic_artigos[id_artigos[i]] = i
-    dic_artigos_inv[i] = id_artigos[i]
 
 for i in range(lin):
     dic_palavras[palavras[i]] = i
-    dic_palavras_inv[i] = palavras[i]
 
 vetorial  = np.zeros((lin, col), dtype= float)
 
@@ -71,6 +71,7 @@ for linha in range(len(vetorial)):
     if somatorio != len(set(dict[dic_palavras_inv[linha]])):
         print("fodeu")
 """
+logging.info('Iniciando o processo de cálculo de peso das palavras nos artigos')
 for linha in range(len(vetorial)):
     idf = 0
     for coluna in range(len(vetorial[0])):
@@ -87,7 +88,11 @@ caminho_metadados = os.path.join(diretorio_atual, '../outputs/metadados_indexado
 
 compact_json = json.dumps(compact_dic)
 
+logging.info('Salvando metadados no txt')
 with open(caminho_metadados, 'w') as file:
     file.write(compact_json)
+logging.info('Metadados salvos no txt')
 
+logging.info('Savando a matriz')
 np.savetxt(caminho_vetor, vetorial)
+logging.info('Matriz Salva')
