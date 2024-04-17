@@ -18,7 +18,7 @@ logging.info('Iniciando download de pacotes do NLTK')
 nltk.download('punkt')
 nltk.download('stopwords')
 
-logging.info('Iniciando download de pacotes do NLTK')
+
 stop_words = set([x.upper() for x in stopwords.words('english')])
 
 
