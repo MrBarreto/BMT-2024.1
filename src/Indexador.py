@@ -9,6 +9,22 @@ import numpy as np
 import math
 import json
 
+def tfidf(vetorial):
+    maxterm = [ 0 for x in range(len(vetorial[0]))]
+    
+    for coluna in range(len(vetorial[0])):
+        for linha in range(len(vetorial)):
+            if vetorial[linha][coluna] > maxterm[coluna]:
+                maxterm[coluna] = vetorial[linha][coluna]
+    
+    for linha in range(len(vetorial)):
+        idf = 0
+        for coluna in range(len(vetorial[0])):
+            idf += vetorial[linha][coluna]
+        idf = math.log10(len(vetorial[0])/idf)
+        for coluna in range(len(vetorial[0])):
+            vetorial[linha][coluna] = vetorial[linha][coluna]*idf/maxterm[coluna]
+
 diretorio_atual = os.path.dirname(os.path.abspath(__file__))
 caminho_config = os.path.join(diretorio_atual, '../cfg/INDEX.CFG')
 caminho_log = os.path.join(diretorio_atual, '../logs/indexador.log')
@@ -59,26 +75,11 @@ vetorial  = np.zeros((lin, col), dtype= float)
 for word, lista_artigos in dict.items():
     for artigo in lista_artigos:
         vetorial[dic_palavras[word]][dic_artigos[artigo]] = 1
-"""
-print(vetorial)
-for linha in range(len(vetorial)):
-    somatorio = 0
-    for coluna in range(len(vetorial[0])):
-        if vetorial[linha][coluna] == 1:
-            elemento = dic_artigos_inv[coluna]
-            if elemento in dict[dic_palavras_inv[linha]]:
-                somatorio += 1
-    if somatorio != len(set(dict[dic_palavras_inv[linha]])):
-        print("fodeu")
-"""
+
 logging.info('Iniciando o processo de cálculo de peso das palavras nos artigos')
-for linha in range(len(vetorial)):
-    idf = 0
-    for coluna in range(len(vetorial[0])):
-        idf += vetorial[linha][coluna]
-    idf = math.log10(len(vetorial[0])/idf)
-    for coluna in range(len(vetorial[0])):
-        vetorial[linha][coluna] = vetorial[linha][coluna]*idf
+
+tfidf(vetorial)
+
 logging.info('Pesos calculados')
 
 compact_dic ={"palavras": dic_palavras, "artigos":dic_artigos}
