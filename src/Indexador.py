@@ -57,7 +57,8 @@ logging.info('Leitura da lista invertida terminada')
 id_artigos = sorted(set(id_artigos))
 
 dic_palavras = {}
-dic_artigos ={}
+dic_artigos = {}
+dic_artigos_inv = {}
 
 col =  len(id_artigos)
 lin = len(dict.keys())
@@ -66,6 +67,7 @@ palavras = list(dict.keys())
 logging.info('Criando mapeamentos entre Palavras/Artigos e índices')
 for i in range(col):
     dic_artigos[id_artigos[i]] = i
+    dic_artigos_inv[i] = int(id_artigos[i])
 
 for i in range(lin):
     dic_palavras[palavras[i]] = i
@@ -82,7 +84,7 @@ tfidf(vetorial)
 
 logging.info('Pesos calculados')
 
-compact_dic ={"palavras": dic_palavras, "artigos":dic_artigos}
+compact_dic ={"palavras": dic_palavras, "artigos":dic_artigos, "artigos_inv":dic_artigos_inv}
 
 caminho_vetor = os.path.join(diretorio_atual, '../outputs/' + output_vetor)
 
