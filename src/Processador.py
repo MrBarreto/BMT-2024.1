@@ -47,7 +47,7 @@ with open(arquivo_query, mode='w', newline='') as consultas_file:
         
         logging.info('Iniciando o processamento da consulta número %s', query_number)
         
-        query_limpa = re.sub(r'[\'"`:,$&#=+@.%;(){}\[\]]', '', query_text)
+        query_limpa = re.sub(r'[\'"`:,?$&#=+@.%;(){}\[\]]', '', query_text)
         query_tokens = [p.upper() for p in word_tokenize(query_limpa)]
         query_palavras = [p for p in query_tokens if not p in stop_words]
         
