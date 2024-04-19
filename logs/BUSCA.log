@@ -1,1 +1,13 @@
-2024-04-18 19:34:00,046 - INFO - Lendo arquivo .CFG
+2024-04-18 23:00:06,632 - INFO - Lendo arquivo .CFG
+2024-04-18 23:00:06,632 - INFO - Extraindo metadados do modelo vetorial
+2024-04-18 23:00:06,634 - INFO - Separando metadados e extraindo o modelo
+2024-04-18 23:00:07,564 - INFO - Iniciando o carregamento das consultas preprocessadas
+2024-04-18 23:00:07,565 - INFO - Terminando o carregamento das consultas preprocessadas
+2024-04-18 23:00:07,565 - INFO - Iniciando a transformação das consultas em vetores
+2024-04-18 23:00:07,567 - INFO - Terminando a transformação das consultas em vetores
+2024-04-18 23:00:07,567 - INFO - Calculando a norma de cada documento
+2024-04-18 23:00:07,594 - INFO - Norma calculada
+2024-04-18 23:00:07,594 - INFO - Iniciando o calculo das similaridades
+2024-04-18 23:00:08,987 - INFO - Terminando o calculo das similaridades
+2024-04-18 23:00:08,987 - INFO - Escrevendo CSV de resultados
+2024-04-18 23:00:09,104 - INFO - CSV de resultados escrito
