@@ -63,6 +63,7 @@ with open(arquivo_esperados, mode='w', newline='') as esperados_file:
         logging.info('Iniciando o processamento dos resultados esperados consulta número %s', query_number)
         for record in query.find('Records').findall('Item'):
             artic_number = record.text
-            vote = record.get('score')
+            vote_vec = list(record.get('score'))
+            vote =sum(1 for num in vote_vec if int(num) != 0)
             esperados_writer.writerow([query_number, artic_number, vote])
         logging.info('Terminando o processamento dos resultados esperados consulta número %s', query_number)

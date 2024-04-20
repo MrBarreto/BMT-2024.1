@@ -1,0 +1,6 @@
+O programa é composto de 4 módulos e um exeutor sequencial
+-Lista_invertida: Gera listas invertidas a partir dos arquivos de artigos
+-Processador: Processa a consulta e gera um csv com resultados esperados e outro com as consultas processadas:
+-indexador: Gera um modelo vetorial a partir das listas invertidas
+-Buscador: Transforma as consultas em vetores e em seguida faz os cáculos de similaridade.
+-coordenador: Executa os módulos na ordem esperada
