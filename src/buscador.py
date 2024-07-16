@@ -91,10 +91,3 @@ with open(output_resultados, mode='w', newline='') as resultados_file:
         for vetor in vetores:
             resultados_writer.writerow([id, vetor])
 logging.info('CSV de resultados escrito')
-
-
-
-
-
-
-

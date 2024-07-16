@@ -7,6 +7,7 @@ import csv
 import logging
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
+from nltk.stem import PorterStemmer
 import json
 
 diretorio_atual = os.path.dirname(os.path.abspath(__file__))
@@ -21,6 +22,8 @@ configs.read(caminho_config)
 fonte_consultas = configs.get('PC.CFG', 'LEIA')
 output_consultas = configs.get('PC.CFG', 'CONSULTAS')
 output_esperados = configs.get('PC.CFG', 'ESPERADOS')
+stemmer_string = configs.get('PC.CFG', 'STEMMER')
+stemmer = stemmer_string == 'True'
 
 logging.info('Iniciando download de pacotes do NLTK')
 nltk.download('punkt')
@@ -28,6 +31,7 @@ nltk.download('stopwords')
 
 logging.info('Processando Stopwords')
 stop_words = set([x.upper() for x in stopwords.words('english')])
+ps = PorterStemmer()
 
 arquivo_consultas = os.path.join(diretorio_atual, '../data/' + fonte_consultas)
 arquivo_query = os.path.join(diretorio_atual, '../outputs/' + output_consultas)
@@ -50,7 +54,8 @@ with open(arquivo_query, mode='w', newline='') as consultas_file:
         query_limpa = re.sub(r'[\'"`:,?$&#=+@.%;(){}\[\]]', '', query_text)
         query_tokens = [p.upper() for p in word_tokenize(query_limpa)]
         query_palavras = [p for p in query_tokens if not p in stop_words]
-        
+        if stemmer:
+            query_palavras = [ps.stem(p).upper()for p in query_palavras]
         consultas_writer.writerow([query_number, query_palavras])
         logging.info('Terminando o processamento da consulta número %s', query_number)
 
