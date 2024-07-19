@@ -48,7 +48,6 @@ for caminho_arquivo in arquivos:
         abstract = artigo.find('ABSTRACT')
         extract = artigo.find('EXTRACT')
         logging.info('Iniciando o processamento do Abstract do artigo número %s', artigo.find('RECORDNUM').text)
-        
         if abstract is not None and len(abstract.text) > 0:
             abstract_limpo = re.sub(r'[\'"`:,$&#=+@.%;(){}\[\]]', '', abstract.text)
             abstract_tokens = [p.upper() for p in word_tokenize(abstract_limpo)]
