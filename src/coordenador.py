@@ -27,6 +27,7 @@ else:
 
 altera_cfg(stemmer, 'GLI.CFG')
 altera_cfg(stemmer, 'PC.CFG')
+altera_cfg(stemmer, 'BUSCA.CFG')
 
 modulos = [
     os.path.join(diretorio_atual, "Lista_invertida.py"),

@@ -1,400 +1,400 @@
-2024-07-16 21:53:12,641 - INFO - Lendo arquivo .CFG
-2024-07-16 21:53:12,641 - INFO - Iniciando download de pacotes do NLTK
-2024-07-16 21:53:12,731 - INFO - Processando Stopwords
-2024-07-16 21:53:12,731 - INFO - Iniciando o parse do arquivo /home/savio/Documents/python/BMT-2024.1/src/../data/cfquery.xml
-2024-07-16 21:53:12,735 - INFO - Iniciando o processamento da consulta número 00001
-2024-07-16 21:53:12,738 - INFO - Terminando o processamento da consulta número 00001
-2024-07-16 21:53:12,738 - INFO - Iniciando o processamento da consulta número 00002
-2024-07-16 21:53:12,739 - INFO - Terminando o processamento da consulta número 00002
-2024-07-16 21:53:12,739 - INFO - Iniciando o processamento da consulta número 00003
-2024-07-16 21:53:12,739 - INFO - Terminando o processamento da consulta número 00003
-2024-07-16 21:53:12,739 - INFO - Iniciando o processamento da consulta número 00004
-2024-07-16 21:53:12,739 - INFO - Terminando o processamento da consulta número 00004
-2024-07-16 21:53:12,739 - INFO - Iniciando o processamento da consulta número 00005
-2024-07-16 21:53:12,739 - INFO - Terminando o processamento da consulta número 00005
-2024-07-16 21:53:12,739 - INFO - Iniciando o processamento da consulta número 00006
-2024-07-16 21:53:12,739 - INFO - Terminando o processamento da consulta número 00006
-2024-07-16 21:53:12,739 - INFO - Iniciando o processamento da consulta número 00007
-2024-07-16 21:53:12,739 - INFO - Terminando o processamento da consulta número 00007
-2024-07-16 21:53:12,739 - INFO - Iniciando o processamento da consulta número 00008
-2024-07-16 21:53:12,739 - INFO - Terminando o processamento da consulta número 00008
-2024-07-16 21:53:12,739 - INFO - Iniciando o processamento da consulta número 00009
-2024-07-16 21:53:12,739 - INFO - Terminando o processamento da consulta número 00009
-2024-07-16 21:53:12,739 - INFO - Iniciando o processamento da consulta número 00010
-2024-07-16 21:53:12,739 - INFO - Terminando o processamento da consulta número 00010
-2024-07-16 21:53:12,739 - INFO - Iniciando o processamento da consulta número 00011
-2024-07-16 21:53:12,740 - INFO - Terminando o processamento da consulta número 00011
-2024-07-16 21:53:12,740 - INFO - Iniciando o processamento da consulta número 00012
-2024-07-16 21:53:12,740 - INFO - Terminando o processamento da consulta número 00012
-2024-07-16 21:53:12,740 - INFO - Iniciando o processamento da consulta número 00013
-2024-07-16 21:53:12,740 - INFO - Terminando o processamento da consulta número 00013
-2024-07-16 21:53:12,740 - INFO - Iniciando o processamento da consulta número 00014
-2024-07-16 21:53:12,740 - INFO - Terminando o processamento da consulta número 00014
-2024-07-16 21:53:12,740 - INFO - Iniciando o processamento da consulta número 00015
-2024-07-16 21:53:12,740 - INFO - Terminando o processamento da consulta número 00015
-2024-07-16 21:53:12,740 - INFO - Iniciando o processamento da consulta número 00016
-2024-07-16 21:53:12,740 - INFO - Terminando o processamento da consulta número 00016
-2024-07-16 21:53:12,740 - INFO - Iniciando o processamento da consulta número 00017
-2024-07-16 21:53:12,740 - INFO - Terminando o processamento da consulta número 00017
-2024-07-16 21:53:12,740 - INFO - Iniciando o processamento da consulta número 00018
-2024-07-16 21:53:12,740 - INFO - Terminando o processamento da consulta número 00018
-2024-07-16 21:53:12,740 - INFO - Iniciando o processamento da consulta número 00019
-2024-07-16 21:53:12,740 - INFO - Terminando o processamento da consulta número 00019
-2024-07-16 21:53:12,740 - INFO - Iniciando o processamento da consulta número 00020
-2024-07-16 21:53:12,740 - INFO - Terminando o processamento da consulta número 00020
-2024-07-16 21:53:12,740 - INFO - Iniciando o processamento da consulta número 00021
-2024-07-16 21:53:12,740 - INFO - Terminando o processamento da consulta número 00021
-2024-07-16 21:53:12,741 - INFO - Iniciando o processamento da consulta número 00022
-2024-07-16 21:53:12,741 - INFO - Terminando o processamento da consulta número 00022
-2024-07-16 21:53:12,741 - INFO - Iniciando o processamento da consulta número 00023
-2024-07-16 21:53:12,741 - INFO - Terminando o processamento da consulta número 00023
-2024-07-16 21:53:12,741 - INFO - Iniciando o processamento da consulta número 00024
-2024-07-16 21:53:12,741 - INFO - Terminando o processamento da consulta número 00024
-2024-07-16 21:53:12,741 - INFO - Iniciando o processamento da consulta número 00025
-2024-07-16 21:53:12,741 - INFO - Terminando o processamento da consulta número 00025
-2024-07-16 21:53:12,741 - INFO - Iniciando o processamento da consulta número 00026
-2024-07-16 21:53:12,741 - INFO - Terminando o processamento da consulta número 00026
-2024-07-16 21:53:12,741 - INFO - Iniciando o processamento da consulta número 00027
-2024-07-16 21:53:12,741 - INFO - Terminando o processamento da consulta número 00027
-2024-07-16 21:53:12,741 - INFO - Iniciando o processamento da consulta número 00028
-2024-07-16 21:53:12,741 - INFO - Terminando o processamento da consulta número 00028
-2024-07-16 21:53:12,741 - INFO - Iniciando o processamento da consulta número 00029
-2024-07-16 21:53:12,741 - INFO - Terminando o processamento da consulta número 00029
-2024-07-16 21:53:12,741 - INFO - Iniciando o processamento da consulta número 00030
-2024-07-16 21:53:12,741 - INFO - Terminando o processamento da consulta número 00030
-2024-07-16 21:53:12,741 - INFO - Iniciando o processamento da consulta número 00031
-2024-07-16 21:53:12,741 - INFO - Terminando o processamento da consulta número 00031
-2024-07-16 21:53:12,741 - INFO - Iniciando o processamento da consulta número 00032
-2024-07-16 21:53:12,741 - INFO - Terminando o processamento da consulta número 00032
-2024-07-16 21:53:12,742 - INFO - Iniciando o processamento da consulta número 00033
-2024-07-16 21:53:12,742 - INFO - Terminando o processamento da consulta número 00033
-2024-07-16 21:53:12,742 - INFO - Iniciando o processamento da consulta número 00034
-2024-07-16 21:53:12,742 - INFO - Terminando o processamento da consulta número 00034
-2024-07-16 21:53:12,742 - INFO - Iniciando o processamento da consulta número 00035
-2024-07-16 21:53:12,742 - INFO - Terminando o processamento da consulta número 00035
-2024-07-16 21:53:12,742 - INFO - Iniciando o processamento da consulta número 00036
-2024-07-16 21:53:12,742 - INFO - Terminando o processamento da consulta número 00036
-2024-07-16 21:53:12,742 - INFO - Iniciando o processamento da consulta número 00037
-2024-07-16 21:53:12,742 - INFO - Terminando o processamento da consulta número 00037
-2024-07-16 21:53:12,742 - INFO - Iniciando o processamento da consulta número 00038
-2024-07-16 21:53:12,742 - INFO - Terminando o processamento da consulta número 00038
-2024-07-16 21:53:12,742 - INFO - Iniciando o processamento da consulta número 00039
-2024-07-16 21:53:12,742 - INFO - Terminando o processamento da consulta número 00039
-2024-07-16 21:53:12,742 - INFO - Iniciando o processamento da consulta número 00040
-2024-07-16 21:53:12,742 - INFO - Terminando o processamento da consulta número 00040
-2024-07-16 21:53:12,742 - INFO - Iniciando o processamento da consulta número 00041
-2024-07-16 21:53:12,742 - INFO - Terminando o processamento da consulta número 00041
-2024-07-16 21:53:12,742 - INFO - Iniciando o processamento da consulta número 00042
-2024-07-16 21:53:12,742 - INFO - Terminando o processamento da consulta número 00042
-2024-07-16 21:53:12,742 - INFO - Iniciando o processamento da consulta número 00043
-2024-07-16 21:53:12,743 - INFO - Terminando o processamento da consulta número 00043
-2024-07-16 21:53:12,743 - INFO - Iniciando o processamento da consulta número 00044
-2024-07-16 21:53:12,743 - INFO - Terminando o processamento da consulta número 00044
-2024-07-16 21:53:12,743 - INFO - Iniciando o processamento da consulta número 00045
-2024-07-16 21:53:12,743 - INFO - Terminando o processamento da consulta número 00045
-2024-07-16 21:53:12,743 - INFO - Iniciando o processamento da consulta número 00046
-2024-07-16 21:53:12,743 - INFO - Terminando o processamento da consulta número 00046
-2024-07-16 21:53:12,743 - INFO - Iniciando o processamento da consulta número 00047
-2024-07-16 21:53:12,743 - INFO - Terminando o processamento da consulta número 00047
-2024-07-16 21:53:12,743 - INFO - Iniciando o processamento da consulta número 00048
-2024-07-16 21:53:12,743 - INFO - Terminando o processamento da consulta número 00048
-2024-07-16 21:53:12,743 - INFO - Iniciando o processamento da consulta número 00049
-2024-07-16 21:53:12,743 - INFO - Terminando o processamento da consulta número 00049
-2024-07-16 21:53:12,743 - INFO - Iniciando o processamento da consulta número 00050
-2024-07-16 21:53:12,743 - INFO - Terminando o processamento da consulta número 00050
-2024-07-16 21:53:12,743 - INFO - Iniciando o processamento da consulta número 00051
-2024-07-16 21:53:12,743 - INFO - Terminando o processamento da consulta número 00051
-2024-07-16 21:53:12,743 - INFO - Iniciando o processamento da consulta número 00052
-2024-07-16 21:53:12,743 - INFO - Terminando o processamento da consulta número 00052
-2024-07-16 21:53:12,743 - INFO - Iniciando o processamento da consulta número 00053
-2024-07-16 21:53:12,743 - INFO - Terminando o processamento da consulta número 00053
-2024-07-16 21:53:12,743 - INFO - Iniciando o processamento da consulta número 00054
-2024-07-16 21:53:12,744 - INFO - Terminando o processamento da consulta número 00054
-2024-07-16 21:53:12,744 - INFO - Iniciando o processamento da consulta número 00055
-2024-07-16 21:53:12,744 - INFO - Terminando o processamento da consulta número 00055
-2024-07-16 21:53:12,744 - INFO - Iniciando o processamento da consulta número 00056
-2024-07-16 21:53:12,744 - INFO - Terminando o processamento da consulta número 00056
-2024-07-16 21:53:12,744 - INFO - Iniciando o processamento da consulta número 00057
-2024-07-16 21:53:12,744 - INFO - Terminando o processamento da consulta número 00057
-2024-07-16 21:53:12,744 - INFO - Iniciando o processamento da consulta número 00058
-2024-07-16 21:53:12,744 - INFO - Terminando o processamento da consulta número 00058
-2024-07-16 21:53:12,744 - INFO - Iniciando o processamento da consulta número 00059
-2024-07-16 21:53:12,744 - INFO - Terminando o processamento da consulta número 00059
-2024-07-16 21:53:12,744 - INFO - Iniciando o processamento da consulta número 00060
-2024-07-16 21:53:12,744 - INFO - Terminando o processamento da consulta número 00060
-2024-07-16 21:53:12,744 - INFO - Iniciando o processamento da consulta número 00061
-2024-07-16 21:53:12,744 - INFO - Terminando o processamento da consulta número 00061
-2024-07-16 21:53:12,744 - INFO - Iniciando o processamento da consulta número 00062
-2024-07-16 21:53:12,744 - INFO - Terminando o processamento da consulta número 00062
-2024-07-16 21:53:12,744 - INFO - Iniciando o processamento da consulta número 00063
-2024-07-16 21:53:12,744 - INFO - Terminando o processamento da consulta número 00063
-2024-07-16 21:53:12,744 - INFO - Iniciando o processamento da consulta número 00064
-2024-07-16 21:53:12,744 - INFO - Terminando o processamento da consulta número 00064
-2024-07-16 21:53:12,745 - INFO - Iniciando o processamento da consulta número 00065
-2024-07-16 21:53:12,745 - INFO - Terminando o processamento da consulta número 00065
-2024-07-16 21:53:12,745 - INFO - Iniciando o processamento da consulta número 00066
-2024-07-16 21:53:12,745 - INFO - Terminando o processamento da consulta número 00066
-2024-07-16 21:53:12,745 - INFO - Iniciando o processamento da consulta número 00067
-2024-07-16 21:53:12,745 - INFO - Terminando o processamento da consulta número 00067
-2024-07-16 21:53:12,745 - INFO - Iniciando o processamento da consulta número 00068
-2024-07-16 21:53:12,745 - INFO - Terminando o processamento da consulta número 00068
-2024-07-16 21:53:12,745 - INFO - Iniciando o processamento da consulta número 00069
-2024-07-16 21:53:12,745 - INFO - Terminando o processamento da consulta número 00069
-2024-07-16 21:53:12,745 - INFO - Iniciando o processamento da consulta número 00070
-2024-07-16 21:53:12,745 - INFO - Terminando o processamento da consulta número 00070
-2024-07-16 21:53:12,745 - INFO - Iniciando o processamento da consulta número 00071
-2024-07-16 21:53:12,745 - INFO - Terminando o processamento da consulta número 00071
-2024-07-16 21:53:12,745 - INFO - Iniciando o processamento da consulta número 00072
-2024-07-16 21:53:12,745 - INFO - Terminando o processamento da consulta número 00072
-2024-07-16 21:53:12,745 - INFO - Iniciando o processamento da consulta número 00073
-2024-07-16 21:53:12,745 - INFO - Terminando o processamento da consulta número 00073
-2024-07-16 21:53:12,745 - INFO - Iniciando o processamento da consulta número 00074
-2024-07-16 21:53:12,745 - INFO - Terminando o processamento da consulta número 00074
-2024-07-16 21:53:12,745 - INFO - Iniciando o processamento da consulta número 00075
-2024-07-16 21:53:12,745 - INFO - Terminando o processamento da consulta número 00075
-2024-07-16 21:53:12,745 - INFO - Iniciando o processamento da consulta número 00076
-2024-07-16 21:53:12,746 - INFO - Terminando o processamento da consulta número 00076
-2024-07-16 21:53:12,746 - INFO - Iniciando o processamento da consulta número 00077
-2024-07-16 21:53:12,746 - INFO - Terminando o processamento da consulta número 00077
-2024-07-16 21:53:12,746 - INFO - Iniciando o processamento da consulta número 00078
-2024-07-16 21:53:12,746 - INFO - Terminando o processamento da consulta número 00078
-2024-07-16 21:53:12,746 - INFO - Iniciando o processamento da consulta número 00079
-2024-07-16 21:53:12,746 - INFO - Terminando o processamento da consulta número 00079
-2024-07-16 21:53:12,746 - INFO - Iniciando o processamento da consulta número 00080
-2024-07-16 21:53:12,746 - INFO - Terminando o processamento da consulta número 00080
-2024-07-16 21:53:12,746 - INFO - Iniciando o processamento da consulta número 00081
-2024-07-16 21:53:12,746 - INFO - Terminando o processamento da consulta número 00081
-2024-07-16 21:53:12,746 - INFO - Iniciando o processamento da consulta número 00082
-2024-07-16 21:53:12,746 - INFO - Terminando o processamento da consulta número 00082
-2024-07-16 21:53:12,746 - INFO - Iniciando o processamento da consulta número 00083
-2024-07-16 21:53:12,746 - INFO - Terminando o processamento da consulta número 00083
-2024-07-16 21:53:12,746 - INFO - Iniciando o processamento da consulta número 00084
-2024-07-16 21:53:12,746 - INFO - Terminando o processamento da consulta número 00084
-2024-07-16 21:53:12,746 - INFO - Iniciando o processamento da consulta número 00085
-2024-07-16 21:53:12,746 - INFO - Terminando o processamento da consulta número 00085
-2024-07-16 21:53:12,746 - INFO - Iniciando o processamento da consulta número 00086
-2024-07-16 21:53:12,747 - INFO - Terminando o processamento da consulta número 00086
-2024-07-16 21:53:12,747 - INFO - Iniciando o processamento da consulta número 00087
-2024-07-16 21:53:12,747 - INFO - Terminando o processamento da consulta número 00087
-2024-07-16 21:53:12,747 - INFO - Iniciando o processamento da consulta número 00088
-2024-07-16 21:53:12,747 - INFO - Terminando o processamento da consulta número 00088
-2024-07-16 21:53:12,747 - INFO - Iniciando o processamento da consulta número 00089
-2024-07-16 21:53:12,747 - INFO - Terminando o processamento da consulta número 00089
-2024-07-16 21:53:12,747 - INFO - Iniciando o processamento da consulta número 00090
-2024-07-16 21:53:12,747 - INFO - Terminando o processamento da consulta número 00090
-2024-07-16 21:53:12,747 - INFO - Iniciando o processamento da consulta número 00091
-2024-07-16 21:53:12,747 - INFO - Terminando o processamento da consulta número 00091
-2024-07-16 21:53:12,747 - INFO - Iniciando o processamento da consulta número 00092
-2024-07-16 21:53:12,747 - INFO - Terminando o processamento da consulta número 00092
-2024-07-16 21:53:12,747 - INFO - Iniciando o processamento da consulta número 00094
-2024-07-16 21:53:12,747 - INFO - Terminando o processamento da consulta número 00094
-2024-07-16 21:53:12,747 - INFO - Iniciando o processamento da consulta número 00095
-2024-07-16 21:53:12,747 - INFO - Terminando o processamento da consulta número 00095
-2024-07-16 21:53:12,747 - INFO - Iniciando o processamento da consulta número 00096
-2024-07-16 21:53:12,747 - INFO - Terminando o processamento da consulta número 00096
-2024-07-16 21:53:12,747 - INFO - Iniciando o processamento da consulta número 00097
-2024-07-16 21:53:12,748 - INFO - Terminando o processamento da consulta número 00097
-2024-07-16 21:53:12,748 - INFO - Iniciando o processamento da consulta número 00098
-2024-07-16 21:53:12,748 - INFO - Terminando o processamento da consulta número 00098
-2024-07-16 21:53:12,748 - INFO - Iniciando o processamento da consulta número 00099
-2024-07-16 21:53:12,748 - INFO - Terminando o processamento da consulta número 00099
-2024-07-16 21:53:12,748 - INFO - Iniciando o processamento da consulta número 00100
-2024-07-16 21:53:12,748 - INFO - Terminando o processamento da consulta número 00100
-2024-07-16 21:53:12,748 - INFO - Iniciando o processamento dos resultados esperados consulta número 00001
-2024-07-16 21:53:12,748 - INFO - Terminando o processamento dos resultados esperados consulta número 00001
-2024-07-16 21:53:12,748 - INFO - Iniciando o processamento dos resultados esperados consulta número 00002
-2024-07-16 21:53:12,748 - INFO - Terminando o processamento dos resultados esperados consulta número 00002
-2024-07-16 21:53:12,748 - INFO - Iniciando o processamento dos resultados esperados consulta número 00003
-2024-07-16 21:53:12,748 - INFO - Terminando o processamento dos resultados esperados consulta número 00003
-2024-07-16 21:53:12,748 - INFO - Iniciando o processamento dos resultados esperados consulta número 00004
-2024-07-16 21:53:12,748 - INFO - Terminando o processamento dos resultados esperados consulta número 00004
-2024-07-16 21:53:12,748 - INFO - Iniciando o processamento dos resultados esperados consulta número 00005
-2024-07-16 21:53:12,748 - INFO - Terminando o processamento dos resultados esperados consulta número 00005
-2024-07-16 21:53:12,748 - INFO - Iniciando o processamento dos resultados esperados consulta número 00006
-2024-07-16 21:53:12,748 - INFO - Terminando o processamento dos resultados esperados consulta número 00006
-2024-07-16 21:53:12,748 - INFO - Iniciando o processamento dos resultados esperados consulta número 00007
-2024-07-16 21:53:12,748 - INFO - Terminando o processamento dos resultados esperados consulta número 00007
-2024-07-16 21:53:12,748 - INFO - Iniciando o processamento dos resultados esperados consulta número 00008
-2024-07-16 21:53:12,748 - INFO - Terminando o processamento dos resultados esperados consulta número 00008
-2024-07-16 21:53:12,748 - INFO - Iniciando o processamento dos resultados esperados consulta número 00009
-2024-07-16 21:53:12,749 - INFO - Terminando o processamento dos resultados esperados consulta número 00009
-2024-07-16 21:53:12,749 - INFO - Iniciando o processamento dos resultados esperados consulta número 00010
-2024-07-16 21:53:12,749 - INFO - Terminando o processamento dos resultados esperados consulta número 00010
-2024-07-16 21:53:12,749 - INFO - Iniciando o processamento dos resultados esperados consulta número 00011
-2024-07-16 21:53:12,749 - INFO - Terminando o processamento dos resultados esperados consulta número 00011
-2024-07-16 21:53:12,749 - INFO - Iniciando o processamento dos resultados esperados consulta número 00012
-2024-07-16 21:53:12,749 - INFO - Terminando o processamento dos resultados esperados consulta número 00012
-2024-07-16 21:53:12,749 - INFO - Iniciando o processamento dos resultados esperados consulta número 00013
-2024-07-16 21:53:12,749 - INFO - Terminando o processamento dos resultados esperados consulta número 00013
-2024-07-16 21:53:12,749 - INFO - Iniciando o processamento dos resultados esperados consulta número 00014
-2024-07-16 21:53:12,749 - INFO - Terminando o processamento dos resultados esperados consulta número 00014
-2024-07-16 21:53:12,749 - INFO - Iniciando o processamento dos resultados esperados consulta número 00015
-2024-07-16 21:53:12,749 - INFO - Terminando o processamento dos resultados esperados consulta número 00015
-2024-07-16 21:53:12,749 - INFO - Iniciando o processamento dos resultados esperados consulta número 00016
-2024-07-16 21:53:12,749 - INFO - Terminando o processamento dos resultados esperados consulta número 00016
-2024-07-16 21:53:12,749 - INFO - Iniciando o processamento dos resultados esperados consulta número 00017
-2024-07-16 21:53:12,749 - INFO - Terminando o processamento dos resultados esperados consulta número 00017
-2024-07-16 21:53:12,749 - INFO - Iniciando o processamento dos resultados esperados consulta número 00018
-2024-07-16 21:53:12,749 - INFO - Terminando o processamento dos resultados esperados consulta número 00018
-2024-07-16 21:53:12,749 - INFO - Iniciando o processamento dos resultados esperados consulta número 00019
-2024-07-16 21:53:12,749 - INFO - Terminando o processamento dos resultados esperados consulta número 00019
-2024-07-16 21:53:12,749 - INFO - Iniciando o processamento dos resultados esperados consulta número 00020
-2024-07-16 21:53:12,749 - INFO - Terminando o processamento dos resultados esperados consulta número 00020
-2024-07-16 21:53:12,749 - INFO - Iniciando o processamento dos resultados esperados consulta número 00021
-2024-07-16 21:53:12,750 - INFO - Terminando o processamento dos resultados esperados consulta número 00021
-2024-07-16 21:53:12,750 - INFO - Iniciando o processamento dos resultados esperados consulta número 00022
-2024-07-16 21:53:12,750 - INFO - Terminando o processamento dos resultados esperados consulta número 00022
-2024-07-16 21:53:12,750 - INFO - Iniciando o processamento dos resultados esperados consulta número 00023
-2024-07-16 21:53:12,750 - INFO - Terminando o processamento dos resultados esperados consulta número 00023
-2024-07-16 21:53:12,750 - INFO - Iniciando o processamento dos resultados esperados consulta número 00024
-2024-07-16 21:53:12,750 - INFO - Terminando o processamento dos resultados esperados consulta número 00024
-2024-07-16 21:53:12,750 - INFO - Iniciando o processamento dos resultados esperados consulta número 00025
-2024-07-16 21:53:12,750 - INFO - Terminando o processamento dos resultados esperados consulta número 00025
-2024-07-16 21:53:12,750 - INFO - Iniciando o processamento dos resultados esperados consulta número 00026
-2024-07-16 21:53:12,750 - INFO - Terminando o processamento dos resultados esperados consulta número 00026
-2024-07-16 21:53:12,750 - INFO - Iniciando o processamento dos resultados esperados consulta número 00027
-2024-07-16 21:53:12,750 - INFO - Terminando o processamento dos resultados esperados consulta número 00027
-2024-07-16 21:53:12,750 - INFO - Iniciando o processamento dos resultados esperados consulta número 00028
-2024-07-16 21:53:12,750 - INFO - Terminando o processamento dos resultados esperados consulta número 00028
-2024-07-16 21:53:12,750 - INFO - Iniciando o processamento dos resultados esperados consulta número 00029
-2024-07-16 21:53:12,750 - INFO - Terminando o processamento dos resultados esperados consulta número 00029
-2024-07-16 21:53:12,750 - INFO - Iniciando o processamento dos resultados esperados consulta número 00030
-2024-07-16 21:53:12,750 - INFO - Terminando o processamento dos resultados esperados consulta número 00030
-2024-07-16 21:53:12,750 - INFO - Iniciando o processamento dos resultados esperados consulta número 00031
-2024-07-16 21:53:12,750 - INFO - Terminando o processamento dos resultados esperados consulta número 00031
-2024-07-16 21:53:12,750 - INFO - Iniciando o processamento dos resultados esperados consulta número 00032
-2024-07-16 21:53:12,750 - INFO - Terminando o processamento dos resultados esperados consulta número 00032
-2024-07-16 21:53:12,750 - INFO - Iniciando o processamento dos resultados esperados consulta número 00033
-2024-07-16 21:53:12,750 - INFO - Terminando o processamento dos resultados esperados consulta número 00033
-2024-07-16 21:53:12,750 - INFO - Iniciando o processamento dos resultados esperados consulta número 00034
-2024-07-16 21:53:12,750 - INFO - Terminando o processamento dos resultados esperados consulta número 00034
-2024-07-16 21:53:12,750 - INFO - Iniciando o processamento dos resultados esperados consulta número 00035
-2024-07-16 21:53:12,751 - INFO - Terminando o processamento dos resultados esperados consulta número 00035
-2024-07-16 21:53:12,751 - INFO - Iniciando o processamento dos resultados esperados consulta número 00036
-2024-07-16 21:53:12,751 - INFO - Terminando o processamento dos resultados esperados consulta número 00036
-2024-07-16 21:53:12,751 - INFO - Iniciando o processamento dos resultados esperados consulta número 00037
-2024-07-16 21:53:12,751 - INFO - Terminando o processamento dos resultados esperados consulta número 00037
-2024-07-16 21:53:12,751 - INFO - Iniciando o processamento dos resultados esperados consulta número 00038
-2024-07-16 21:53:12,751 - INFO - Terminando o processamento dos resultados esperados consulta número 00038
-2024-07-16 21:53:12,751 - INFO - Iniciando o processamento dos resultados esperados consulta número 00039
-2024-07-16 21:53:12,751 - INFO - Terminando o processamento dos resultados esperados consulta número 00039
-2024-07-16 21:53:12,751 - INFO - Iniciando o processamento dos resultados esperados consulta número 00040
-2024-07-16 21:53:12,751 - INFO - Terminando o processamento dos resultados esperados consulta número 00040
-2024-07-16 21:53:12,751 - INFO - Iniciando o processamento dos resultados esperados consulta número 00041
-2024-07-16 21:53:12,751 - INFO - Terminando o processamento dos resultados esperados consulta número 00041
-2024-07-16 21:53:12,751 - INFO - Iniciando o processamento dos resultados esperados consulta número 00042
-2024-07-16 21:53:12,751 - INFO - Terminando o processamento dos resultados esperados consulta número 00042
-2024-07-16 21:53:12,751 - INFO - Iniciando o processamento dos resultados esperados consulta número 00043
-2024-07-16 21:53:12,751 - INFO - Terminando o processamento dos resultados esperados consulta número 00043
-2024-07-16 21:53:12,751 - INFO - Iniciando o processamento dos resultados esperados consulta número 00044
-2024-07-16 21:53:12,752 - INFO - Terminando o processamento dos resultados esperados consulta número 00044
-2024-07-16 21:53:12,752 - INFO - Iniciando o processamento dos resultados esperados consulta número 00045
-2024-07-16 21:53:12,752 - INFO - Terminando o processamento dos resultados esperados consulta número 00045
-2024-07-16 21:53:12,752 - INFO - Iniciando o processamento dos resultados esperados consulta número 00046
-2024-07-16 21:53:12,752 - INFO - Terminando o processamento dos resultados esperados consulta número 00046
-2024-07-16 21:53:12,752 - INFO - Iniciando o processamento dos resultados esperados consulta número 00047
-2024-07-16 21:53:12,752 - INFO - Terminando o processamento dos resultados esperados consulta número 00047
-2024-07-16 21:53:12,752 - INFO - Iniciando o processamento dos resultados esperados consulta número 00048
-2024-07-16 21:53:12,752 - INFO - Terminando o processamento dos resultados esperados consulta número 00048
-2024-07-16 21:53:12,752 - INFO - Iniciando o processamento dos resultados esperados consulta número 00049
-2024-07-16 21:53:12,752 - INFO - Terminando o processamento dos resultados esperados consulta número 00049
-2024-07-16 21:53:12,752 - INFO - Iniciando o processamento dos resultados esperados consulta número 00050
-2024-07-16 21:53:12,752 - INFO - Terminando o processamento dos resultados esperados consulta número 00050
-2024-07-16 21:53:12,752 - INFO - Iniciando o processamento dos resultados esperados consulta número 00051
-2024-07-16 21:53:12,752 - INFO - Terminando o processamento dos resultados esperados consulta número 00051
-2024-07-16 21:53:12,752 - INFO - Iniciando o processamento dos resultados esperados consulta número 00052
-2024-07-16 21:53:12,752 - INFO - Terminando o processamento dos resultados esperados consulta número 00052
-2024-07-16 21:53:12,752 - INFO - Iniciando o processamento dos resultados esperados consulta número 00053
-2024-07-16 21:53:12,752 - INFO - Terminando o processamento dos resultados esperados consulta número 00053
-2024-07-16 21:53:12,752 - INFO - Iniciando o processamento dos resultados esperados consulta número 00054
-2024-07-16 21:53:12,752 - INFO - Terminando o processamento dos resultados esperados consulta número 00054
-2024-07-16 21:53:12,752 - INFO - Iniciando o processamento dos resultados esperados consulta número 00055
-2024-07-16 21:53:12,752 - INFO - Terminando o processamento dos resultados esperados consulta número 00055
-2024-07-16 21:53:12,752 - INFO - Iniciando o processamento dos resultados esperados consulta número 00056
-2024-07-16 21:53:12,752 - INFO - Terminando o processamento dos resultados esperados consulta número 00056
-2024-07-16 21:53:12,752 - INFO - Iniciando o processamento dos resultados esperados consulta número 00057
-2024-07-16 21:53:12,753 - INFO - Terminando o processamento dos resultados esperados consulta número 00057
-2024-07-16 21:53:12,753 - INFO - Iniciando o processamento dos resultados esperados consulta número 00058
-2024-07-16 21:53:12,753 - INFO - Terminando o processamento dos resultados esperados consulta número 00058
-2024-07-16 21:53:12,753 - INFO - Iniciando o processamento dos resultados esperados consulta número 00059
-2024-07-16 21:53:12,753 - INFO - Terminando o processamento dos resultados esperados consulta número 00059
-2024-07-16 21:53:12,753 - INFO - Iniciando o processamento dos resultados esperados consulta número 00060
-2024-07-16 21:53:12,753 - INFO - Terminando o processamento dos resultados esperados consulta número 00060
-2024-07-16 21:53:12,753 - INFO - Iniciando o processamento dos resultados esperados consulta número 00061
-2024-07-16 21:53:12,753 - INFO - Terminando o processamento dos resultados esperados consulta número 00061
-2024-07-16 21:53:12,753 - INFO - Iniciando o processamento dos resultados esperados consulta número 00062
-2024-07-16 21:53:12,753 - INFO - Terminando o processamento dos resultados esperados consulta número 00062
-2024-07-16 21:53:12,753 - INFO - Iniciando o processamento dos resultados esperados consulta número 00063
-2024-07-16 21:53:12,753 - INFO - Terminando o processamento dos resultados esperados consulta número 00063
-2024-07-16 21:53:12,753 - INFO - Iniciando o processamento dos resultados esperados consulta número 00064
-2024-07-16 21:53:12,753 - INFO - Terminando o processamento dos resultados esperados consulta número 00064
-2024-07-16 21:53:12,753 - INFO - Iniciando o processamento dos resultados esperados consulta número 00065
-2024-07-16 21:53:12,753 - INFO - Terminando o processamento dos resultados esperados consulta número 00065
-2024-07-16 21:53:12,753 - INFO - Iniciando o processamento dos resultados esperados consulta número 00066
-2024-07-16 21:53:12,753 - INFO - Terminando o processamento dos resultados esperados consulta número 00066
-2024-07-16 21:53:12,754 - INFO - Iniciando o processamento dos resultados esperados consulta número 00067
-2024-07-16 21:53:12,754 - INFO - Terminando o processamento dos resultados esperados consulta número 00067
-2024-07-16 21:53:12,754 - INFO - Iniciando o processamento dos resultados esperados consulta número 00068
-2024-07-16 21:53:12,754 - INFO - Terminando o processamento dos resultados esperados consulta número 00068
-2024-07-16 21:53:12,754 - INFO - Iniciando o processamento dos resultados esperados consulta número 00069
-2024-07-16 21:53:12,754 - INFO - Terminando o processamento dos resultados esperados consulta número 00069
-2024-07-16 21:53:12,754 - INFO - Iniciando o processamento dos resultados esperados consulta número 00070
-2024-07-16 21:53:12,754 - INFO - Terminando o processamento dos resultados esperados consulta número 00070
-2024-07-16 21:53:12,754 - INFO - Iniciando o processamento dos resultados esperados consulta número 00071
-2024-07-16 21:53:12,754 - INFO - Terminando o processamento dos resultados esperados consulta número 00071
-2024-07-16 21:53:12,754 - INFO - Iniciando o processamento dos resultados esperados consulta número 00072
-2024-07-16 21:53:12,754 - INFO - Terminando o processamento dos resultados esperados consulta número 00072
-2024-07-16 21:53:12,754 - INFO - Iniciando o processamento dos resultados esperados consulta número 00073
-2024-07-16 21:53:12,754 - INFO - Terminando o processamento dos resultados esperados consulta número 00073
-2024-07-16 21:53:12,754 - INFO - Iniciando o processamento dos resultados esperados consulta número 00074
-2024-07-16 21:53:12,754 - INFO - Terminando o processamento dos resultados esperados consulta número 00074
-2024-07-16 21:53:12,754 - INFO - Iniciando o processamento dos resultados esperados consulta número 00075
-2024-07-16 21:53:12,754 - INFO - Terminando o processamento dos resultados esperados consulta número 00075
-2024-07-16 21:53:12,754 - INFO - Iniciando o processamento dos resultados esperados consulta número 00076
-2024-07-16 21:53:12,754 - INFO - Terminando o processamento dos resultados esperados consulta número 00076
-2024-07-16 21:53:12,754 - INFO - Iniciando o processamento dos resultados esperados consulta número 00077
-2024-07-16 21:53:12,754 - INFO - Terminando o processamento dos resultados esperados consulta número 00077
-2024-07-16 21:53:12,754 - INFO - Iniciando o processamento dos resultados esperados consulta número 00078
-2024-07-16 21:53:12,754 - INFO - Terminando o processamento dos resultados esperados consulta número 00078
-2024-07-16 21:53:12,754 - INFO - Iniciando o processamento dos resultados esperados consulta número 00079
-2024-07-16 21:53:12,754 - INFO - Terminando o processamento dos resultados esperados consulta número 00079
-2024-07-16 21:53:12,754 - INFO - Iniciando o processamento dos resultados esperados consulta número 00080
-2024-07-16 21:53:12,754 - INFO - Terminando o processamento dos resultados esperados consulta número 00080
-2024-07-16 21:53:12,754 - INFO - Iniciando o processamento dos resultados esperados consulta número 00081
-2024-07-16 21:53:12,754 - INFO - Terminando o processamento dos resultados esperados consulta número 00081
-2024-07-16 21:53:12,754 - INFO - Iniciando o processamento dos resultados esperados consulta número 00082
-2024-07-16 21:53:12,754 - INFO - Terminando o processamento dos resultados esperados consulta número 00082
-2024-07-16 21:53:12,755 - INFO - Iniciando o processamento dos resultados esperados consulta número 00083
-2024-07-16 21:53:12,755 - INFO - Terminando o processamento dos resultados esperados consulta número 00083
-2024-07-16 21:53:12,755 - INFO - Iniciando o processamento dos resultados esperados consulta número 00084
-2024-07-16 21:53:12,755 - INFO - Terminando o processamento dos resultados esperados consulta número 00084
-2024-07-16 21:53:12,755 - INFO - Iniciando o processamento dos resultados esperados consulta número 00085
-2024-07-16 21:53:12,755 - INFO - Terminando o processamento dos resultados esperados consulta número 00085
-2024-07-16 21:53:12,755 - INFO - Iniciando o processamento dos resultados esperados consulta número 00086
-2024-07-16 21:53:12,755 - INFO - Terminando o processamento dos resultados esperados consulta número 00086
-2024-07-16 21:53:12,755 - INFO - Iniciando o processamento dos resultados esperados consulta número 00087
-2024-07-16 21:53:12,755 - INFO - Terminando o processamento dos resultados esperados consulta número 00087
-2024-07-16 21:53:12,755 - INFO - Iniciando o processamento dos resultados esperados consulta número 00088
-2024-07-16 21:53:12,755 - INFO - Terminando o processamento dos resultados esperados consulta número 00088
-2024-07-16 21:53:12,755 - INFO - Iniciando o processamento dos resultados esperados consulta número 00089
-2024-07-16 21:53:12,755 - INFO - Terminando o processamento dos resultados esperados consulta número 00089
-2024-07-16 21:53:12,755 - INFO - Iniciando o processamento dos resultados esperados consulta número 00090
-2024-07-16 21:53:12,755 - INFO - Terminando o processamento dos resultados esperados consulta número 00090
-2024-07-16 21:53:12,755 - INFO - Iniciando o processamento dos resultados esperados consulta número 00091
-2024-07-16 21:53:12,755 - INFO - Terminando o processamento dos resultados esperados consulta número 00091
-2024-07-16 21:53:12,755 - INFO - Iniciando o processamento dos resultados esperados consulta número 00092
-2024-07-16 21:53:12,755 - INFO - Terminando o processamento dos resultados esperados consulta número 00092
-2024-07-16 21:53:12,755 - INFO - Iniciando o processamento dos resultados esperados consulta número 00094
-2024-07-16 21:53:12,755 - INFO - Terminando o processamento dos resultados esperados consulta número 00094
-2024-07-16 21:53:12,756 - INFO - Iniciando o processamento dos resultados esperados consulta número 00095
-2024-07-16 21:53:12,756 - INFO - Terminando o processamento dos resultados esperados consulta número 00095
-2024-07-16 21:53:12,756 - INFO - Iniciando o processamento dos resultados esperados consulta número 00096
-2024-07-16 21:53:12,756 - INFO - Terminando o processamento dos resultados esperados consulta número 00096
-2024-07-16 21:53:12,756 - INFO - Iniciando o processamento dos resultados esperados consulta número 00097
-2024-07-16 21:53:12,756 - INFO - Terminando o processamento dos resultados esperados consulta número 00097
-2024-07-16 21:53:12,756 - INFO - Iniciando o processamento dos resultados esperados consulta número 00098
-2024-07-16 21:53:12,756 - INFO - Terminando o processamento dos resultados esperados consulta número 00098
-2024-07-16 21:53:12,756 - INFO - Iniciando o processamento dos resultados esperados consulta número 00099
-2024-07-16 21:53:12,756 - INFO - Terminando o processamento dos resultados esperados consulta número 00099
-2024-07-16 21:53:12,756 - INFO - Iniciando o processamento dos resultados esperados consulta número 00100
-2024-07-16 21:53:12,756 - INFO - Terminando o processamento dos resultados esperados consulta número 00100
+2024-07-19 15:29:53,712 - INFO - Lendo arquivo .CFG
+2024-07-19 15:29:53,712 - INFO - Iniciando download de pacotes do NLTK
+2024-07-19 15:29:53,827 - INFO - Processando Stopwords
+2024-07-19 15:29:53,828 - INFO - Iniciando o parse do arquivo /home/savio/python/BMT-2024.1/src/../data/cfquery.xml
+2024-07-19 15:29:53,841 - INFO - Iniciando o processamento da consulta número 00001
+2024-07-19 15:29:53,848 - INFO - Terminando o processamento da consulta número 00001
+2024-07-19 15:29:53,848 - INFO - Iniciando o processamento da consulta número 00002
+2024-07-19 15:29:53,848 - INFO - Terminando o processamento da consulta número 00002
+2024-07-19 15:29:53,849 - INFO - Iniciando o processamento da consulta número 00003
+2024-07-19 15:29:53,849 - INFO - Terminando o processamento da consulta número 00003
+2024-07-19 15:29:53,849 - INFO - Iniciando o processamento da consulta número 00004
+2024-07-19 15:29:53,849 - INFO - Terminando o processamento da consulta número 00004
+2024-07-19 15:29:53,849 - INFO - Iniciando o processamento da consulta número 00005
+2024-07-19 15:29:53,849 - INFO - Terminando o processamento da consulta número 00005
+2024-07-19 15:29:53,849 - INFO - Iniciando o processamento da consulta número 00006
+2024-07-19 15:29:53,850 - INFO - Terminando o processamento da consulta número 00006
+2024-07-19 15:29:53,850 - INFO - Iniciando o processamento da consulta número 00007
+2024-07-19 15:29:53,850 - INFO - Terminando o processamento da consulta número 00007
+2024-07-19 15:29:53,852 - INFO - Iniciando o processamento da consulta número 00008
+2024-07-19 15:29:53,853 - INFO - Terminando o processamento da consulta número 00008
+2024-07-19 15:29:53,853 - INFO - Iniciando o processamento da consulta número 00009
+2024-07-19 15:29:53,853 - INFO - Terminando o processamento da consulta número 00009
+2024-07-19 15:29:53,854 - INFO - Iniciando o processamento da consulta número 00010
+2024-07-19 15:29:53,854 - INFO - Terminando o processamento da consulta número 00010
+2024-07-19 15:29:53,854 - INFO - Iniciando o processamento da consulta número 00011
+2024-07-19 15:29:53,854 - INFO - Terminando o processamento da consulta número 00011
+2024-07-19 15:29:53,854 - INFO - Iniciando o processamento da consulta número 00012
+2024-07-19 15:29:53,854 - INFO - Terminando o processamento da consulta número 00012
+2024-07-19 15:29:53,854 - INFO - Iniciando o processamento da consulta número 00013
+2024-07-19 15:29:53,856 - INFO - Terminando o processamento da consulta número 00013
+2024-07-19 15:29:53,856 - INFO - Iniciando o processamento da consulta número 00014
+2024-07-19 15:29:53,856 - INFO - Terminando o processamento da consulta número 00014
+2024-07-19 15:29:53,856 - INFO - Iniciando o processamento da consulta número 00015
+2024-07-19 15:29:53,857 - INFO - Terminando o processamento da consulta número 00015
+2024-07-19 15:29:53,857 - INFO - Iniciando o processamento da consulta número 00016
+2024-07-19 15:29:53,857 - INFO - Terminando o processamento da consulta número 00016
+2024-07-19 15:29:53,857 - INFO - Iniciando o processamento da consulta número 00017
+2024-07-19 15:29:53,857 - INFO - Terminando o processamento da consulta número 00017
+2024-07-19 15:29:53,857 - INFO - Iniciando o processamento da consulta número 00018
+2024-07-19 15:29:53,858 - INFO - Terminando o processamento da consulta número 00018
+2024-07-19 15:29:53,858 - INFO - Iniciando o processamento da consulta número 00019
+2024-07-19 15:29:53,858 - INFO - Terminando o processamento da consulta número 00019
+2024-07-19 15:29:53,858 - INFO - Iniciando o processamento da consulta número 00020
+2024-07-19 15:29:53,858 - INFO - Terminando o processamento da consulta número 00020
+2024-07-19 15:29:53,858 - INFO - Iniciando o processamento da consulta número 00021
+2024-07-19 15:29:53,859 - INFO - Terminando o processamento da consulta número 00021
+2024-07-19 15:29:53,859 - INFO - Iniciando o processamento da consulta número 00022
+2024-07-19 15:29:53,859 - INFO - Terminando o processamento da consulta número 00022
+2024-07-19 15:29:53,859 - INFO - Iniciando o processamento da consulta número 00023
+2024-07-19 15:29:53,859 - INFO - Terminando o processamento da consulta número 00023
+2024-07-19 15:29:53,859 - INFO - Iniciando o processamento da consulta número 00024
+2024-07-19 15:29:53,860 - INFO - Terminando o processamento da consulta número 00024
+2024-07-19 15:29:53,860 - INFO - Iniciando o processamento da consulta número 00025
+2024-07-19 15:29:53,860 - INFO - Terminando o processamento da consulta número 00025
+2024-07-19 15:29:53,860 - INFO - Iniciando o processamento da consulta número 00026
+2024-07-19 15:29:53,860 - INFO - Terminando o processamento da consulta número 00026
+2024-07-19 15:29:53,860 - INFO - Iniciando o processamento da consulta número 00027
+2024-07-19 15:29:53,861 - INFO - Terminando o processamento da consulta número 00027
+2024-07-19 15:29:53,861 - INFO - Iniciando o processamento da consulta número 00028
+2024-07-19 15:29:53,861 - INFO - Terminando o processamento da consulta número 00028
+2024-07-19 15:29:53,861 - INFO - Iniciando o processamento da consulta número 00029
+2024-07-19 15:29:53,861 - INFO - Terminando o processamento da consulta número 00029
+2024-07-19 15:29:53,861 - INFO - Iniciando o processamento da consulta número 00030
+2024-07-19 15:29:53,861 - INFO - Terminando o processamento da consulta número 00030
+2024-07-19 15:29:53,861 - INFO - Iniciando o processamento da consulta número 00031
+2024-07-19 15:29:53,862 - INFO - Terminando o processamento da consulta número 00031
+2024-07-19 15:29:53,862 - INFO - Iniciando o processamento da consulta número 00032
+2024-07-19 15:29:53,862 - INFO - Terminando o processamento da consulta número 00032
+2024-07-19 15:29:53,862 - INFO - Iniciando o processamento da consulta número 00033
+2024-07-19 15:29:53,862 - INFO - Terminando o processamento da consulta número 00033
+2024-07-19 15:29:53,862 - INFO - Iniciando o processamento da consulta número 00034
+2024-07-19 15:29:53,863 - INFO - Terminando o processamento da consulta número 00034
+2024-07-19 15:29:53,863 - INFO - Iniciando o processamento da consulta número 00035
+2024-07-19 15:29:53,863 - INFO - Terminando o processamento da consulta número 00035
+2024-07-19 15:29:53,863 - INFO - Iniciando o processamento da consulta número 00036
+2024-07-19 15:29:53,863 - INFO - Terminando o processamento da consulta número 00036
+2024-07-19 15:29:53,864 - INFO - Iniciando o processamento da consulta número 00037
+2024-07-19 15:29:53,864 - INFO - Terminando o processamento da consulta número 00037
+2024-07-19 15:29:53,864 - INFO - Iniciando o processamento da consulta número 00038
+2024-07-19 15:29:53,864 - INFO - Terminando o processamento da consulta número 00038
+2024-07-19 15:29:53,864 - INFO - Iniciando o processamento da consulta número 00039
+2024-07-19 15:29:53,864 - INFO - Terminando o processamento da consulta número 00039
+2024-07-19 15:29:53,865 - INFO - Iniciando o processamento da consulta número 00040
+2024-07-19 15:29:53,865 - INFO - Terminando o processamento da consulta número 00040
+2024-07-19 15:29:53,865 - INFO - Iniciando o processamento da consulta número 00041
+2024-07-19 15:29:53,865 - INFO - Terminando o processamento da consulta número 00041
+2024-07-19 15:29:53,865 - INFO - Iniciando o processamento da consulta número 00042
+2024-07-19 15:29:53,865 - INFO - Terminando o processamento da consulta número 00042
+2024-07-19 15:29:53,865 - INFO - Iniciando o processamento da consulta número 00043
+2024-07-19 15:29:53,866 - INFO - Terminando o processamento da consulta número 00043
+2024-07-19 15:29:53,866 - INFO - Iniciando o processamento da consulta número 00044
+2024-07-19 15:29:53,867 - INFO - Terminando o processamento da consulta número 00044
+2024-07-19 15:29:53,867 - INFO - Iniciando o processamento da consulta número 00045
+2024-07-19 15:29:53,868 - INFO - Terminando o processamento da consulta número 00045
+2024-07-19 15:29:53,868 - INFO - Iniciando o processamento da consulta número 00046
+2024-07-19 15:29:53,868 - INFO - Terminando o processamento da consulta número 00046
+2024-07-19 15:29:53,868 - INFO - Iniciando o processamento da consulta número 00047
+2024-07-19 15:29:53,868 - INFO - Terminando o processamento da consulta número 00047
+2024-07-19 15:29:53,868 - INFO - Iniciando o processamento da consulta número 00048
+2024-07-19 15:29:53,868 - INFO - Terminando o processamento da consulta número 00048
+2024-07-19 15:29:53,868 - INFO - Iniciando o processamento da consulta número 00049
+2024-07-19 15:29:53,869 - INFO - Terminando o processamento da consulta número 00049
+2024-07-19 15:29:53,869 - INFO - Iniciando o processamento da consulta número 00050
+2024-07-19 15:29:53,869 - INFO - Terminando o processamento da consulta número 00050
+2024-07-19 15:29:53,869 - INFO - Iniciando o processamento da consulta número 00051
+2024-07-19 15:29:53,869 - INFO - Terminando o processamento da consulta número 00051
+2024-07-19 15:29:53,869 - INFO - Iniciando o processamento da consulta número 00052
+2024-07-19 15:29:53,869 - INFO - Terminando o processamento da consulta número 00052
+2024-07-19 15:29:53,869 - INFO - Iniciando o processamento da consulta número 00053
+2024-07-19 15:29:53,870 - INFO - Terminando o processamento da consulta número 00053
+2024-07-19 15:29:53,870 - INFO - Iniciando o processamento da consulta número 00054
+2024-07-19 15:29:53,870 - INFO - Terminando o processamento da consulta número 00054
+2024-07-19 15:29:53,870 - INFO - Iniciando o processamento da consulta número 00055
+2024-07-19 15:29:53,870 - INFO - Terminando o processamento da consulta número 00055
+2024-07-19 15:29:53,870 - INFO - Iniciando o processamento da consulta número 00056
+2024-07-19 15:29:53,870 - INFO - Terminando o processamento da consulta número 00056
+2024-07-19 15:29:53,871 - INFO - Iniciando o processamento da consulta número 00057
+2024-07-19 15:29:53,871 - INFO - Terminando o processamento da consulta número 00057
+2024-07-19 15:29:53,871 - INFO - Iniciando o processamento da consulta número 00058
+2024-07-19 15:29:53,871 - INFO - Terminando o processamento da consulta número 00058
+2024-07-19 15:29:53,871 - INFO - Iniciando o processamento da consulta número 00059
+2024-07-19 15:29:53,871 - INFO - Terminando o processamento da consulta número 00059
+2024-07-19 15:29:53,871 - INFO - Iniciando o processamento da consulta número 00060
+2024-07-19 15:29:53,871 - INFO - Terminando o processamento da consulta número 00060
+2024-07-19 15:29:53,871 - INFO - Iniciando o processamento da consulta número 00061
+2024-07-19 15:29:53,872 - INFO - Terminando o processamento da consulta número 00061
+2024-07-19 15:29:53,872 - INFO - Iniciando o processamento da consulta número 00062
+2024-07-19 15:29:53,872 - INFO - Terminando o processamento da consulta número 00062
+2024-07-19 15:29:53,872 - INFO - Iniciando o processamento da consulta número 00063
+2024-07-19 15:29:53,872 - INFO - Terminando o processamento da consulta número 00063
+2024-07-19 15:29:53,872 - INFO - Iniciando o processamento da consulta número 00064
+2024-07-19 15:29:53,872 - INFO - Terminando o processamento da consulta número 00064
+2024-07-19 15:29:53,872 - INFO - Iniciando o processamento da consulta número 00065
+2024-07-19 15:29:53,873 - INFO - Terminando o processamento da consulta número 00065
+2024-07-19 15:29:53,873 - INFO - Iniciando o processamento da consulta número 00066
+2024-07-19 15:29:53,873 - INFO - Terminando o processamento da consulta número 00066
+2024-07-19 15:29:53,873 - INFO - Iniciando o processamento da consulta número 00067
+2024-07-19 15:29:53,873 - INFO - Terminando o processamento da consulta número 00067
+2024-07-19 15:29:53,874 - INFO - Iniciando o processamento da consulta número 00068
+2024-07-19 15:29:53,874 - INFO - Terminando o processamento da consulta número 00068
+2024-07-19 15:29:53,874 - INFO - Iniciando o processamento da consulta número 00069
+2024-07-19 15:29:53,874 - INFO - Terminando o processamento da consulta número 00069
+2024-07-19 15:29:53,874 - INFO - Iniciando o processamento da consulta número 00070
+2024-07-19 15:29:53,875 - INFO - Terminando o processamento da consulta número 00070
+2024-07-19 15:29:53,875 - INFO - Iniciando o processamento da consulta número 00071
+2024-07-19 15:29:53,875 - INFO - Terminando o processamento da consulta número 00071
+2024-07-19 15:29:53,875 - INFO - Iniciando o processamento da consulta número 00072
+2024-07-19 15:29:53,875 - INFO - Terminando o processamento da consulta número 00072
+2024-07-19 15:29:53,875 - INFO - Iniciando o processamento da consulta número 00073
+2024-07-19 15:29:53,876 - INFO - Terminando o processamento da consulta número 00073
+2024-07-19 15:29:53,876 - INFO - Iniciando o processamento da consulta número 00074
+2024-07-19 15:29:53,876 - INFO - Terminando o processamento da consulta número 00074
+2024-07-19 15:29:53,876 - INFO - Iniciando o processamento da consulta número 00075
+2024-07-19 15:29:53,877 - INFO - Terminando o processamento da consulta número 00075
+2024-07-19 15:29:53,877 - INFO - Iniciando o processamento da consulta número 00076
+2024-07-19 15:29:53,877 - INFO - Terminando o processamento da consulta número 00076
+2024-07-19 15:29:53,877 - INFO - Iniciando o processamento da consulta número 00077
+2024-07-19 15:29:53,877 - INFO - Terminando o processamento da consulta número 00077
+2024-07-19 15:29:53,877 - INFO - Iniciando o processamento da consulta número 00078
+2024-07-19 15:29:53,878 - INFO - Terminando o processamento da consulta número 00078
+2024-07-19 15:29:53,878 - INFO - Iniciando o processamento da consulta número 00079
+2024-07-19 15:29:53,878 - INFO - Terminando o processamento da consulta número 00079
+2024-07-19 15:29:53,878 - INFO - Iniciando o processamento da consulta número 00080
+2024-07-19 15:29:53,879 - INFO - Terminando o processamento da consulta número 00080
+2024-07-19 15:29:53,879 - INFO - Iniciando o processamento da consulta número 00081
+2024-07-19 15:29:53,879 - INFO - Terminando o processamento da consulta número 00081
+2024-07-19 15:29:53,879 - INFO - Iniciando o processamento da consulta número 00082
+2024-07-19 15:29:53,880 - INFO - Terminando o processamento da consulta número 00082
+2024-07-19 15:29:53,880 - INFO - Iniciando o processamento da consulta número 00083
+2024-07-19 15:29:53,880 - INFO - Terminando o processamento da consulta número 00083
+2024-07-19 15:29:53,880 - INFO - Iniciando o processamento da consulta número 00084
+2024-07-19 15:29:53,881 - INFO - Terminando o processamento da consulta número 00084
+2024-07-19 15:29:53,881 - INFO - Iniciando o processamento da consulta número 00085
+2024-07-19 15:29:53,881 - INFO - Terminando o processamento da consulta número 00085
+2024-07-19 15:29:53,881 - INFO - Iniciando o processamento da consulta número 00086
+2024-07-19 15:29:53,882 - INFO - Terminando o processamento da consulta número 00086
+2024-07-19 15:29:53,882 - INFO - Iniciando o processamento da consulta número 00087
+2024-07-19 15:29:53,882 - INFO - Terminando o processamento da consulta número 00087
+2024-07-19 15:29:53,882 - INFO - Iniciando o processamento da consulta número 00088
+2024-07-19 15:29:53,882 - INFO - Terminando o processamento da consulta número 00088
+2024-07-19 15:29:53,882 - INFO - Iniciando o processamento da consulta número 00089
+2024-07-19 15:29:53,883 - INFO - Terminando o processamento da consulta número 00089
+2024-07-19 15:29:53,883 - INFO - Iniciando o processamento da consulta número 00090
+2024-07-19 15:29:53,883 - INFO - Terminando o processamento da consulta número 00090
+2024-07-19 15:29:53,883 - INFO - Iniciando o processamento da consulta número 00091
+2024-07-19 15:29:53,884 - INFO - Terminando o processamento da consulta número 00091
+2024-07-19 15:29:53,884 - INFO - Iniciando o processamento da consulta número 00092
+2024-07-19 15:29:53,884 - INFO - Terminando o processamento da consulta número 00092
+2024-07-19 15:29:53,884 - INFO - Iniciando o processamento da consulta número 00094
+2024-07-19 15:29:53,884 - INFO - Terminando o processamento da consulta número 00094
+2024-07-19 15:29:53,884 - INFO - Iniciando o processamento da consulta número 00095
+2024-07-19 15:29:53,885 - INFO - Terminando o processamento da consulta número 00095
+2024-07-19 15:29:53,885 - INFO - Iniciando o processamento da consulta número 00096
+2024-07-19 15:29:53,885 - INFO - Terminando o processamento da consulta número 00096
+2024-07-19 15:29:53,885 - INFO - Iniciando o processamento da consulta número 00097
+2024-07-19 15:29:53,885 - INFO - Terminando o processamento da consulta número 00097
+2024-07-19 15:29:53,885 - INFO - Iniciando o processamento da consulta número 00098
+2024-07-19 15:29:53,885 - INFO - Terminando o processamento da consulta número 00098
+2024-07-19 15:29:53,885 - INFO - Iniciando o processamento da consulta número 00099
+2024-07-19 15:29:53,886 - INFO - Terminando o processamento da consulta número 00099
+2024-07-19 15:29:53,886 - INFO - Iniciando o processamento da consulta número 00100
+2024-07-19 15:29:53,886 - INFO - Terminando o processamento da consulta número 00100
+2024-07-19 15:29:53,886 - INFO - Iniciando o processamento dos resultados esperados consulta número 00001
+2024-07-19 15:29:53,886 - INFO - Terminando o processamento dos resultados esperados consulta número 00001
+2024-07-19 15:29:53,886 - INFO - Iniciando o processamento dos resultados esperados consulta número 00002
+2024-07-19 15:29:53,886 - INFO - Terminando o processamento dos resultados esperados consulta número 00002
+2024-07-19 15:29:53,886 - INFO - Iniciando o processamento dos resultados esperados consulta número 00003
+2024-07-19 15:29:53,886 - INFO - Terminando o processamento dos resultados esperados consulta número 00003
+2024-07-19 15:29:53,887 - INFO - Iniciando o processamento dos resultados esperados consulta número 00004
+2024-07-19 15:29:53,887 - INFO - Terminando o processamento dos resultados esperados consulta número 00004
+2024-07-19 15:29:53,887 - INFO - Iniciando o processamento dos resultados esperados consulta número 00005
+2024-07-19 15:29:53,887 - INFO - Terminando o processamento dos resultados esperados consulta número 00005
+2024-07-19 15:29:53,887 - INFO - Iniciando o processamento dos resultados esperados consulta número 00006
+2024-07-19 15:29:53,887 - INFO - Terminando o processamento dos resultados esperados consulta número 00006
+2024-07-19 15:29:53,887 - INFO - Iniciando o processamento dos resultados esperados consulta número 00007
+2024-07-19 15:29:53,887 - INFO - Terminando o processamento dos resultados esperados consulta número 00007
+2024-07-19 15:29:53,887 - INFO - Iniciando o processamento dos resultados esperados consulta número 00008
+2024-07-19 15:29:53,887 - INFO - Terminando o processamento dos resultados esperados consulta número 00008
+2024-07-19 15:29:53,887 - INFO - Iniciando o processamento dos resultados esperados consulta número 00009
+2024-07-19 15:29:53,887 - INFO - Terminando o processamento dos resultados esperados consulta número 00009
+2024-07-19 15:29:53,887 - INFO - Iniciando o processamento dos resultados esperados consulta número 00010
+2024-07-19 15:29:53,887 - INFO - Terminando o processamento dos resultados esperados consulta número 00010
+2024-07-19 15:29:53,887 - INFO - Iniciando o processamento dos resultados esperados consulta número 00011
+2024-07-19 15:29:53,887 - INFO - Terminando o processamento dos resultados esperados consulta número 00011
+2024-07-19 15:29:53,887 - INFO - Iniciando o processamento dos resultados esperados consulta número 00012
+2024-07-19 15:29:53,887 - INFO - Terminando o processamento dos resultados esperados consulta número 00012
+2024-07-19 15:29:53,887 - INFO - Iniciando o processamento dos resultados esperados consulta número 00013
+2024-07-19 15:29:53,887 - INFO - Terminando o processamento dos resultados esperados consulta número 00013
+2024-07-19 15:29:53,888 - INFO - Iniciando o processamento dos resultados esperados consulta número 00014
+2024-07-19 15:29:53,888 - INFO - Terminando o processamento dos resultados esperados consulta número 00014
+2024-07-19 15:29:53,888 - INFO - Iniciando o processamento dos resultados esperados consulta número 00015
+2024-07-19 15:29:53,888 - INFO - Terminando o processamento dos resultados esperados consulta número 00015
+2024-07-19 15:29:53,888 - INFO - Iniciando o processamento dos resultados esperados consulta número 00016
+2024-07-19 15:29:53,888 - INFO - Terminando o processamento dos resultados esperados consulta número 00016
+2024-07-19 15:29:53,888 - INFO - Iniciando o processamento dos resultados esperados consulta número 00017
+2024-07-19 15:29:53,889 - INFO - Terminando o processamento dos resultados esperados consulta número 00017
+2024-07-19 15:29:53,889 - INFO - Iniciando o processamento dos resultados esperados consulta número 00018
+2024-07-19 15:29:53,889 - INFO - Terminando o processamento dos resultados esperados consulta número 00018
+2024-07-19 15:29:53,889 - INFO - Iniciando o processamento dos resultados esperados consulta número 00019
+2024-07-19 15:29:53,889 - INFO - Terminando o processamento dos resultados esperados consulta número 00019
+2024-07-19 15:29:53,889 - INFO - Iniciando o processamento dos resultados esperados consulta número 00020
+2024-07-19 15:29:53,889 - INFO - Terminando o processamento dos resultados esperados consulta número 00020
+2024-07-19 15:29:53,889 - INFO - Iniciando o processamento dos resultados esperados consulta número 00021
+2024-07-19 15:29:53,889 - INFO - Terminando o processamento dos resultados esperados consulta número 00021
+2024-07-19 15:29:53,889 - INFO - Iniciando o processamento dos resultados esperados consulta número 00022
+2024-07-19 15:29:53,889 - INFO - Terminando o processamento dos resultados esperados consulta número 00022
+2024-07-19 15:29:53,889 - INFO - Iniciando o processamento dos resultados esperados consulta número 00023
+2024-07-19 15:29:53,889 - INFO - Terminando o processamento dos resultados esperados consulta número 00023
+2024-07-19 15:29:53,889 - INFO - Iniciando o processamento dos resultados esperados consulta número 00024
+2024-07-19 15:29:53,889 - INFO - Terminando o processamento dos resultados esperados consulta número 00024
+2024-07-19 15:29:53,889 - INFO - Iniciando o processamento dos resultados esperados consulta número 00025
+2024-07-19 15:29:53,890 - INFO - Terminando o processamento dos resultados esperados consulta número 00025
+2024-07-19 15:29:53,890 - INFO - Iniciando o processamento dos resultados esperados consulta número 00026
+2024-07-19 15:29:53,890 - INFO - Terminando o processamento dos resultados esperados consulta número 00026
+2024-07-19 15:29:53,890 - INFO - Iniciando o processamento dos resultados esperados consulta número 00027
+2024-07-19 15:29:53,890 - INFO - Terminando o processamento dos resultados esperados consulta número 00027
+2024-07-19 15:29:53,890 - INFO - Iniciando o processamento dos resultados esperados consulta número 00028
+2024-07-19 15:29:53,890 - INFO - Terminando o processamento dos resultados esperados consulta número 00028
+2024-07-19 15:29:53,890 - INFO - Iniciando o processamento dos resultados esperados consulta número 00029
+2024-07-19 15:29:53,890 - INFO - Terminando o processamento dos resultados esperados consulta número 00029
+2024-07-19 15:29:53,890 - INFO - Iniciando o processamento dos resultados esperados consulta número 00030
+2024-07-19 15:29:53,890 - INFO - Terminando o processamento dos resultados esperados consulta número 00030
+2024-07-19 15:29:53,890 - INFO - Iniciando o processamento dos resultados esperados consulta número 00031
+2024-07-19 15:29:53,890 - INFO - Terminando o processamento dos resultados esperados consulta número 00031
+2024-07-19 15:29:53,891 - INFO - Iniciando o processamento dos resultados esperados consulta número 00032
+2024-07-19 15:29:53,891 - INFO - Terminando o processamento dos resultados esperados consulta número 00032
+2024-07-19 15:29:53,891 - INFO - Iniciando o processamento dos resultados esperados consulta número 00033
+2024-07-19 15:29:53,891 - INFO - Terminando o processamento dos resultados esperados consulta número 00033
+2024-07-19 15:29:53,891 - INFO - Iniciando o processamento dos resultados esperados consulta número 00034
+2024-07-19 15:29:53,891 - INFO - Terminando o processamento dos resultados esperados consulta número 00034
+2024-07-19 15:29:53,891 - INFO - Iniciando o processamento dos resultados esperados consulta número 00035
+2024-07-19 15:29:53,891 - INFO - Terminando o processamento dos resultados esperados consulta número 00035
+2024-07-19 15:29:53,891 - INFO - Iniciando o processamento dos resultados esperados consulta número 00036
+2024-07-19 15:29:53,891 - INFO - Terminando o processamento dos resultados esperados consulta número 00036
+2024-07-19 15:29:53,891 - INFO - Iniciando o processamento dos resultados esperados consulta número 00037
+2024-07-19 15:29:53,891 - INFO - Terminando o processamento dos resultados esperados consulta número 00037
+2024-07-19 15:29:53,891 - INFO - Iniciando o processamento dos resultados esperados consulta número 00038
+2024-07-19 15:29:53,892 - INFO - Terminando o processamento dos resultados esperados consulta número 00038
+2024-07-19 15:29:53,892 - INFO - Iniciando o processamento dos resultados esperados consulta número 00039
+2024-07-19 15:29:53,892 - INFO - Terminando o processamento dos resultados esperados consulta número 00039
+2024-07-19 15:29:53,892 - INFO - Iniciando o processamento dos resultados esperados consulta número 00040
+2024-07-19 15:29:53,892 - INFO - Terminando o processamento dos resultados esperados consulta número 00040
+2024-07-19 15:29:53,892 - INFO - Iniciando o processamento dos resultados esperados consulta número 00041
+2024-07-19 15:29:53,892 - INFO - Terminando o processamento dos resultados esperados consulta número 00041
+2024-07-19 15:29:53,892 - INFO - Iniciando o processamento dos resultados esperados consulta número 00042
+2024-07-19 15:29:53,892 - INFO - Terminando o processamento dos resultados esperados consulta número 00042
+2024-07-19 15:29:53,892 - INFO - Iniciando o processamento dos resultados esperados consulta número 00043
+2024-07-19 15:29:53,893 - INFO - Terminando o processamento dos resultados esperados consulta número 00043
+2024-07-19 15:29:53,893 - INFO - Iniciando o processamento dos resultados esperados consulta número 00044
+2024-07-19 15:29:53,893 - INFO - Terminando o processamento dos resultados esperados consulta número 00044
+2024-07-19 15:29:53,893 - INFO - Iniciando o processamento dos resultados esperados consulta número 00045
+2024-07-19 15:29:53,893 - INFO - Terminando o processamento dos resultados esperados consulta número 00045
+2024-07-19 15:29:53,893 - INFO - Iniciando o processamento dos resultados esperados consulta número 00046
+2024-07-19 15:29:53,893 - INFO - Terminando o processamento dos resultados esperados consulta número 00046
+2024-07-19 15:29:53,893 - INFO - Iniciando o processamento dos resultados esperados consulta número 00047
+2024-07-19 15:29:53,893 - INFO - Terminando o processamento dos resultados esperados consulta número 00047
+2024-07-19 15:29:53,893 - INFO - Iniciando o processamento dos resultados esperados consulta número 00048
+2024-07-19 15:29:53,894 - INFO - Terminando o processamento dos resultados esperados consulta número 00048
+2024-07-19 15:29:53,894 - INFO - Iniciando o processamento dos resultados esperados consulta número 00049
+2024-07-19 15:29:53,894 - INFO - Terminando o processamento dos resultados esperados consulta número 00049
+2024-07-19 15:29:53,894 - INFO - Iniciando o processamento dos resultados esperados consulta número 00050
+2024-07-19 15:29:53,894 - INFO - Terminando o processamento dos resultados esperados consulta número 00050
+2024-07-19 15:29:53,894 - INFO - Iniciando o processamento dos resultados esperados consulta número 00051
+2024-07-19 15:29:53,894 - INFO - Terminando o processamento dos resultados esperados consulta número 00051
+2024-07-19 15:29:53,894 - INFO - Iniciando o processamento dos resultados esperados consulta número 00052
+2024-07-19 15:29:53,894 - INFO - Terminando o processamento dos resultados esperados consulta número 00052
+2024-07-19 15:29:53,894 - INFO - Iniciando o processamento dos resultados esperados consulta número 00053
+2024-07-19 15:29:53,895 - INFO - Terminando o processamento dos resultados esperados consulta número 00053
+2024-07-19 15:29:53,895 - INFO - Iniciando o processamento dos resultados esperados consulta número 00054
+2024-07-19 15:29:53,895 - INFO - Terminando o processamento dos resultados esperados consulta número 00054
+2024-07-19 15:29:53,895 - INFO - Iniciando o processamento dos resultados esperados consulta número 00055
+2024-07-19 15:29:53,895 - INFO - Terminando o processamento dos resultados esperados consulta número 00055
+2024-07-19 15:29:53,895 - INFO - Iniciando o processamento dos resultados esperados consulta número 00056
+2024-07-19 15:29:53,895 - INFO - Terminando o processamento dos resultados esperados consulta número 00056
+2024-07-19 15:29:53,895 - INFO - Iniciando o processamento dos resultados esperados consulta número 00057
+2024-07-19 15:29:53,895 - INFO - Terminando o processamento dos resultados esperados consulta número 00057
+2024-07-19 15:29:53,895 - INFO - Iniciando o processamento dos resultados esperados consulta número 00058
+2024-07-19 15:29:53,895 - INFO - Terminando o processamento dos resultados esperados consulta número 00058
+2024-07-19 15:29:53,895 - INFO - Iniciando o processamento dos resultados esperados consulta número 00059
+2024-07-19 15:29:53,896 - INFO - Terminando o processamento dos resultados esperados consulta número 00059
+2024-07-19 15:29:53,896 - INFO - Iniciando o processamento dos resultados esperados consulta número 00060
+2024-07-19 15:29:53,896 - INFO - Terminando o processamento dos resultados esperados consulta número 00060
+2024-07-19 15:29:53,896 - INFO - Iniciando o processamento dos resultados esperados consulta número 00061
+2024-07-19 15:29:53,896 - INFO - Terminando o processamento dos resultados esperados consulta número 00061
+2024-07-19 15:29:53,896 - INFO - Iniciando o processamento dos resultados esperados consulta número 00062
+2024-07-19 15:29:53,896 - INFO - Terminando o processamento dos resultados esperados consulta número 00062
+2024-07-19 15:29:53,896 - INFO - Iniciando o processamento dos resultados esperados consulta número 00063
+2024-07-19 15:29:53,896 - INFO - Terminando o processamento dos resultados esperados consulta número 00063
+2024-07-19 15:29:53,896 - INFO - Iniciando o processamento dos resultados esperados consulta número 00064
+2024-07-19 15:29:53,897 - INFO - Terminando o processamento dos resultados esperados consulta número 00064
+2024-07-19 15:29:53,897 - INFO - Iniciando o processamento dos resultados esperados consulta número 00065
+2024-07-19 15:29:53,897 - INFO - Terminando o processamento dos resultados esperados consulta número 00065
+2024-07-19 15:29:53,897 - INFO - Iniciando o processamento dos resultados esperados consulta número 00066
+2024-07-19 15:29:53,897 - INFO - Terminando o processamento dos resultados esperados consulta número 00066
+2024-07-19 15:29:53,897 - INFO - Iniciando o processamento dos resultados esperados consulta número 00067
+2024-07-19 15:29:53,897 - INFO - Terminando o processamento dos resultados esperados consulta número 00067
+2024-07-19 15:29:53,897 - INFO - Iniciando o processamento dos resultados esperados consulta número 00068
+2024-07-19 15:29:53,897 - INFO - Terminando o processamento dos resultados esperados consulta número 00068
+2024-07-19 15:29:53,897 - INFO - Iniciando o processamento dos resultados esperados consulta número 00069
+2024-07-19 15:29:53,897 - INFO - Terminando o processamento dos resultados esperados consulta número 00069
+2024-07-19 15:29:53,897 - INFO - Iniciando o processamento dos resultados esperados consulta número 00070
+2024-07-19 15:29:53,897 - INFO - Terminando o processamento dos resultados esperados consulta número 00070
+2024-07-19 15:29:53,897 - INFO - Iniciando o processamento dos resultados esperados consulta número 00071
+2024-07-19 15:29:53,897 - INFO - Terminando o processamento dos resultados esperados consulta número 00071
+2024-07-19 15:29:53,897 - INFO - Iniciando o processamento dos resultados esperados consulta número 00072
+2024-07-19 15:29:53,897 - INFO - Terminando o processamento dos resultados esperados consulta número 00072
+2024-07-19 15:29:53,897 - INFO - Iniciando o processamento dos resultados esperados consulta número 00073
+2024-07-19 15:29:53,897 - INFO - Terminando o processamento dos resultados esperados consulta número 00073
+2024-07-19 15:29:53,898 - INFO - Iniciando o processamento dos resultados esperados consulta número 00074
+2024-07-19 15:29:53,898 - INFO - Terminando o processamento dos resultados esperados consulta número 00074
+2024-07-19 15:29:53,898 - INFO - Iniciando o processamento dos resultados esperados consulta número 00075
+2024-07-19 15:29:53,898 - INFO - Terminando o processamento dos resultados esperados consulta número 00075
+2024-07-19 15:29:53,898 - INFO - Iniciando o processamento dos resultados esperados consulta número 00076
+2024-07-19 15:29:53,898 - INFO - Terminando o processamento dos resultados esperados consulta número 00076
+2024-07-19 15:29:53,898 - INFO - Iniciando o processamento dos resultados esperados consulta número 00077
+2024-07-19 15:29:53,898 - INFO - Terminando o processamento dos resultados esperados consulta número 00077
+2024-07-19 15:29:53,898 - INFO - Iniciando o processamento dos resultados esperados consulta número 00078
+2024-07-19 15:29:53,898 - INFO - Terminando o processamento dos resultados esperados consulta número 00078
+2024-07-19 15:29:53,898 - INFO - Iniciando o processamento dos resultados esperados consulta número 00079
+2024-07-19 15:29:53,898 - INFO - Terminando o processamento dos resultados esperados consulta número 00079
+2024-07-19 15:29:53,898 - INFO - Iniciando o processamento dos resultados esperados consulta número 00080
+2024-07-19 15:29:53,898 - INFO - Terminando o processamento dos resultados esperados consulta número 00080
+2024-07-19 15:29:53,898 - INFO - Iniciando o processamento dos resultados esperados consulta número 00081
+2024-07-19 15:29:53,898 - INFO - Terminando o processamento dos resultados esperados consulta número 00081
+2024-07-19 15:29:53,899 - INFO - Iniciando o processamento dos resultados esperados consulta número 00082
+2024-07-19 15:29:53,899 - INFO - Terminando o processamento dos resultados esperados consulta número 00082
+2024-07-19 15:29:53,899 - INFO - Iniciando o processamento dos resultados esperados consulta número 00083
+2024-07-19 15:29:53,899 - INFO - Terminando o processamento dos resultados esperados consulta número 00083
+2024-07-19 15:29:53,899 - INFO - Iniciando o processamento dos resultados esperados consulta número 00084
+2024-07-19 15:29:53,899 - INFO - Terminando o processamento dos resultados esperados consulta número 00084
+2024-07-19 15:29:53,899 - INFO - Iniciando o processamento dos resultados esperados consulta número 00085
+2024-07-19 15:29:53,899 - INFO - Terminando o processamento dos resultados esperados consulta número 00085
+2024-07-19 15:29:53,899 - INFO - Iniciando o processamento dos resultados esperados consulta número 00086
+2024-07-19 15:29:53,899 - INFO - Terminando o processamento dos resultados esperados consulta número 00086
+2024-07-19 15:29:53,899 - INFO - Iniciando o processamento dos resultados esperados consulta número 00087
+2024-07-19 15:29:53,899 - INFO - Terminando o processamento dos resultados esperados consulta número 00087
+2024-07-19 15:29:53,899 - INFO - Iniciando o processamento dos resultados esperados consulta número 00088
+2024-07-19 15:29:53,899 - INFO - Terminando o processamento dos resultados esperados consulta número 00088
+2024-07-19 15:29:53,899 - INFO - Iniciando o processamento dos resultados esperados consulta número 00089
+2024-07-19 15:29:53,899 - INFO - Terminando o processamento dos resultados esperados consulta número 00089
+2024-07-19 15:29:53,899 - INFO - Iniciando o processamento dos resultados esperados consulta número 00090
+2024-07-19 15:29:53,900 - INFO - Terminando o processamento dos resultados esperados consulta número 00090
+2024-07-19 15:29:53,900 - INFO - Iniciando o processamento dos resultados esperados consulta número 00091
+2024-07-19 15:29:53,900 - INFO - Terminando o processamento dos resultados esperados consulta número 00091
+2024-07-19 15:29:53,900 - INFO - Iniciando o processamento dos resultados esperados consulta número 00092
+2024-07-19 15:29:53,900 - INFO - Terminando o processamento dos resultados esperados consulta número 00092
+2024-07-19 15:29:53,900 - INFO - Iniciando o processamento dos resultados esperados consulta número 00094
+2024-07-19 15:29:53,901 - INFO - Terminando o processamento dos resultados esperados consulta número 00094
+2024-07-19 15:29:53,901 - INFO - Iniciando o processamento dos resultados esperados consulta número 00095
+2024-07-19 15:29:53,901 - INFO - Terminando o processamento dos resultados esperados consulta número 00095
+2024-07-19 15:29:53,901 - INFO - Iniciando o processamento dos resultados esperados consulta número 00096
+2024-07-19 15:29:53,901 - INFO - Terminando o processamento dos resultados esperados consulta número 00096
+2024-07-19 15:29:53,901 - INFO - Iniciando o processamento dos resultados esperados consulta número 00097
+2024-07-19 15:29:53,901 - INFO - Terminando o processamento dos resultados esperados consulta número 00097
+2024-07-19 15:29:53,901 - INFO - Iniciando o processamento dos resultados esperados consulta número 00098
+2024-07-19 15:29:53,901 - INFO - Terminando o processamento dos resultados esperados consulta número 00098
+2024-07-19 15:29:53,901 - INFO - Iniciando o processamento dos resultados esperados consulta número 00099
+2024-07-19 15:29:53,901 - INFO - Terminando o processamento dos resultados esperados consulta número 00099
+2024-07-19 15:29:53,901 - INFO - Iniciando o processamento dos resultados esperados consulta número 00100
+2024-07-19 15:29:53,901 - INFO - Terminando o processamento dos resultados esperados consulta número 00100

@@ -25,9 +25,14 @@ logging.basicConfig(filename=caminho_log, level=logging.INFO, format='%(asctime)
 logging.info('Lendo arquivo .CFG')
 configs = configparser.RawConfigParser()
 configs.read(caminho_config)
+stemmer_string = configs.get('BUSCA.CFG', 'STEMMER')
+stemmer = stemmer_string == 'True'
 modelo, metadados = [os.path.join(diretorio_atual, '../outputs/' + x) for x in configs.get('BUSCA.CFG', 'MODELO').split(",")]
 dados_consultas = os.path.join(diretorio_atual, '../outputs/' + configs.get('BUSCA.CFG', 'CONSULTAS'))
-output_resultados = os.path.join(diretorio_atual, '../outputs/' + configs.get('BUSCA.CFG', 'RESULTADOS'))
+if stemmer:
+    output_resultados = os.path.join(diretorio_atual, '../outputs/' + configs.get('BUSCA.CFG', 'RESULTADOS') + 'Stemmer.csv')
+else:
+    output_resultados = os.path.join(diretorio_atual, '../outputs/' + configs.get('BUSCA.CFG', 'RESULTADOS') + 'NoStemmer.csv')
 
 logging.info('Extraindo metadados do modelo vetorial')
 with open(metadados, 'r') as file:
