@@ -1,11 +1,14 @@
 # Métricas
 Ao longo dos resultados, percebeu-se que os resultados usando stemmer são ligeiramente superiores.
 
+## Gráfico de 11 pontos de precisão e recall
+- Stemmer: 11_precisao_recall_stemmer.pdf
+- Sem stemmer: 11_precisao_recall_nostemmer.pdf
 ## F1
 <hr/>
 
 - Stemmer: 0.0742 -> 7,42%.
-- Sem stemmer: 0.0742 -> 7,42%..
+- Sem stemmer: 0.0742 -> 7,42%.
 
 ## Precision@10
 <hr/>
@@ -18,6 +21,9 @@ Ao longo dos resultados, percebeu-se que os resultados usando stemmer são ligei
 
 - Stemmer: 0.4632, 46,33%
 - Sem stemmer: 0.4245, 42,45%
+
+## Histograma de R-Precision (comparativo)
+- Histograma_R_Precision.pdf
 
 ## MAP
 <hr/>
